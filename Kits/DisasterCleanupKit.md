@@ -24,6 +24,7 @@ The supplies selected for inclusion in this kit were ones that were used by pret
     1. Masks were uncomfortable, and in the heat and humidity caused volunteer's glasses and safety glasses to fog up.
     2. Elastic bands frequently snapped off of the masks.  Almost half of all volunteers experienced this failure, and two had it happen more than once.
     3. Some volunteers found the mask's filtration inadequate, still struggling with the smells and particulates in the air despite wearing the mask.
+
   For this reason, recommendation is a supply of 4 N95 masks per kit, or as an alternative, a p100 half-face respirator.  This is a subject which requires further investigation, as multiple volunteers reported physical effects from breathing in the flooded environments.
  - Headlamps were absolutely critical.  No location being cleaned up post-flood had power.  Some volunteers brought battery powered lights, but those were of limited use, needing to be moved and repositioned constantly.  Every Volunteer should be supplied with a headlamp, and spare batteries.  Rechargeable Headlamps are another possibility, but rechargeables don't suit themselves to being kept in a prepackaged kit like this.
  - Nitrile Gloves were universally used and appreciated.  Frequently worn alone, or underneath cut-resistant gloves.  They wore out, tore, or got too full of sweat very frequently.  Spares are a must, 8 pair.
